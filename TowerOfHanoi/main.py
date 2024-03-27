@@ -1,10 +1,3 @@
-"""
-    Ad/Soyad: Ahmad Khaled SAMIM
-    Öğrenci NO: 20253843
-    2. Ödev
-"""
-
-
 def tower_of_hanoi(disks, source, auxiliary, target):
     # Base case: If there's only one disk, move it directly to the target.
     if disks == 1:
